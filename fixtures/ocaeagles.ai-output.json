@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "key": "ux.nav", "g": "A",
+      "found": "The main menu is organized around a new family's questions: About, Academics (Preschool, Elementary, Junior/Senior High), Admissions, and Student Life come first. Current-family items like the Lunch Menu, calendars, and FACTS Login are tucked under Eagle Essentials, which keeps them out of a prospective parent's way.",
+      "evidence": ["Eagle Essentials", "Junior/Senior High", "Admission Process", "FACTS Login"],
+      "visual": {"type": "nav", "items": [["About","gen"],["Academics","pro"],["Admissions","pro"],["Student Life","pro"],["Eagle Essentials","cur"],["Contact Us","gen"],["Support Us","don"],["Visit Us","pro"]]}
+    },
+    {
+      "key": "ux.scannable", "g": "A",
+      "found": "Pages are broken into short, easy-to-scan sections. Each homepage block has a heading, two or three sentences, and a Learn More button, and the Admissions page lays out its process under clear step headings."
+      ,"evidence": ["Statement Of Beliefs", "Step 1 Private Tour"]
+    },
+    {
+      "key": "content.grunt", "g": "B",
+      "found": "The hero headline, \"Uniting a Passion for Christ with Excellence in Academics!\", tells a parent this is a Christ-centered, academically serious school. The Visit Us button in the header and the quick links just below the hero (Application Process, Schedule a Tour) give a clear next step. What the hero doesn't say is where the school is or which grades it serves.",
+      "rec": "Add a short supporting line under the headline, such as \"Preschool through 12th grade in Chickamauga, Georgia.\"",
+      "evidence": ["Uniting a Passion for Christ with Excellence in Academics", "Visit Schedule a Tour", "Admissions Application Process"]
+    },
+    {
+      "key": "content.prospective", "g": "A",
+      "found": "The homepage walks a new family through the school in a sensible order: beliefs, academics by grade band, admissions, athletics, fine arts, and the church partnership, ending with an invitation to a personal tour. Current-family content is kept to a single quick link."
+      ,"evidence": ["Elementary Kindergarten to 6th Grade", "Visit Oakwood Christian Academy", "Experience what God is doing at OCA through a personal tour"]
+    },
+    {
+      "key": "content.spiritual", "g": "C",
+      "found": "Oakwood is clearly Christ-centered. The homepage leads with a Statement of Beliefs and the partnership with Oakwood Baptist Church, and the Admissions page describes \"Kingdom Education.\" But there is no page dedicated to spiritual life, so a parent can't see what discipleship looks like day to day: chapel, Bible class, prayer, or service.",
+      "rec": "Add a Spiritual Life page that shows discipleship in practice, with photos, a short description of chapel and Bible curriculum, and a quote from a teacher or parent.",
+      "evidence": ["Kingdom Education", "Statement Of Beliefs", "Oakwood Baptist Church"]
+    },
+    {
+      "key": "content.path", "g": "A",
+      "found": "The Admissions page lays out a clear, numbered process in plain text: a private tour, the application, an admissions assessment, and notification. Each step says what happens and what comes next.",
+      "evidence": ["Step 1 Private Tour", "Step 2 Application", "Step 3 Admissions Assessment", "Step 4 Notification"],
+      "visual": {"type": "path", "steps": ["Private tour", "Application", "Admissions assessment", "Notification"]}
+    },
+    {
+      "key": "conv.primary-cta", "g": "B",
+      "found": "The header has the right action: Visit Us, which opens online tour booking. Beside it, Support Us is a dark navy button that draws the eye before the gold Visit Us button does. Further down, the Inquire Today button goes to the Admissions page rather than an inquiry form.",
+      "rec": "Make Visit Us the most prominent button in the header and give Support Us a quieter style. Point Inquire Today straight to the tour booking.",
+      "evidence": ["Support Us", "Visit Us", "Inquire Today"]
+    },
+    {
+      "key": "conv.forms", "g": "A",
+      "found": "Every path a family can take is short. The contact form asks for a name, email, and message, and tours are booked online in a few clicks by grade group (Preschool, Lower School, Grade School, Upper School). The longer application comes after the tour, which is the right order.",
+      "evidence": ["Online self-booking, 30-minute tours by grade group", "Following your campus tour, you'll receive an email with a link to complete the Admissions Application"]
+    },
+    {
+      "key": "conv.credibility", "g": "B",
+      "found": "The About page lists four accreditations (NACSAA, NCPSA, AACS, and GAPSAC) and shows their logos. We didn't find news or media coverage anywhere on the site.",
+      "rec": "Put the accreditation logos in the footer of every page, and add a short news or \"In the community\" section to the homepage.",
+      "evidence": ["North American Christian School Accrediting Agency", "National Council of Private School Accreditation"]
+    },
+    {
+      "key": "conv.lead-magnet", "g": "F",
+      "found": "There is no email opt-in or downloadable guide anywhere on the site.",
+      "rec": "Offer a simple guide parents want, such as \"How to Pay for Christian School in North Georgia: Tuition, GOAL Scholarships and Payment Plans.\" Oakwood already has the content on its Financial Information page.",
+      "evidence": ["Student Scholarship Organization (GOAL)", "Tuition and Fee Structure 2026-2027 School Year"]
+    },
+    {
+      "key": "conv.secondary-cta", "g": "B",
+      "found": "Families who aren't ready to visit have several next steps: Learn More buttons for each program, the Application Process and Calendar quick links, Contact Us, and the church's website. There's no open house invitation or newsletter signup.",
+      "evidence": ["Calendar Event Highlights", "LEARN MORE", "VISIT OAKWOOD BAPTIST CHURCH"]
+    },
+    {
+      "key": "conv.testimonials", "g": "F",
+      "found": "We didn't find any parent or student testimonials on the pages we reviewed. The quotations on the site are Scripture and the mission statement.",
+      "rec": "Add 3 or 4 short parent quotes to the homepage and Admissions page. Facebook recommendations from current families are a good place to start.",
+      "evidence": ["Statement of Faith, Romans 10:9-10"]
+    }
+  ]
+}
