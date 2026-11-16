@@ -1,0 +1,146 @@
+{
+  "input": { "url": "https://ocaeagles.org/", "domain": "ocaeagles.org", "keyword": "christian school chickamauga", "city": "Chickamauga", "state": "GA", "schoolName": "Oakwood Christian Academy" },
+  "collectedAt": "2026-11-16T15:40:00Z",
+  "home": {
+    "finalUrl": "https://ocaeagles.org/",
+    "title": "Oakwood Christian Academy | Passion for Christ Excellence in Academics",
+    "metaDescription": null,
+    "headings": [
+      {"tag":"H2","text":"Oakwood Christian Academy"},{"tag":"H2","text":"Statement Of Beliefs"},{"tag":"H2","text":"Academics"},
+      {"tag":"H2","text":"Admissions"},{"tag":"H2","text":"Athletics"},{"tag":"H2","text":"Fine Arts"},
+      {"tag":"H2","text":"Oakwood Parent Organization (OPO)"},{"tag":"H2","text":"Oakwood Baptist Church"},{"tag":"H2","text":"Visit Oakwood Christian Academy"}
+    ],
+    "og": {},
+    "schemaTypes": [],
+    "images": [
+      {"src":"https://ocaeagles.org/wp-content/uploads/Oakwood_logo.png","alt":"Oakwood Christian Academy"},
+      {"src":"https://ocaeagles.org/wp-content/uploads/Oakwood_logo_1-3.png","alt":""},
+      {"src":"https://ocaeagles.org/wp-content/uploads/Oakwood_logo_3.png","alt":""},
+      {"src":"482229432_1043932317754107_5980612677924185673_n-1.jpg","alt":null,"background":true},
+      {"src":"IMG_2249.jpg","alt":null,"background":true},
+      {"src":"485363000_1048310330649639_5115400469196232550_n.jpg","alt":null,"background":true},
+      {"src":"IMG_2235.jpg","alt":null,"background":true},
+      {"src":"484929140_1045814197565919_5376806827093333307_n.jpg","alt":null,"background":true},
+      {"src":"484077669_1042504761230196_9013984741383238246_n-1.jpg","alt":null,"background":true},
+      {"src":"585491141_1244277404386263_1260522971263548791_n-scaled.jpg","alt":null,"background":true},
+      {"src":"Oakwood-Christian-Academy-at-sunset.jpeg","alt":null,"background":true},
+      {"src":"PreK8-scaled.jpg","alt":null,"background":true},
+      {"src":"IMG_2217.jpg","alt":null,"background":true},
+      {"src":"10th-grade-scaled.jpg","alt":null,"background":true},
+      {"src":"welcome-3.jpg","alt":null,"background":true},
+      {"src":"IMG_2224.jpg","alt":null,"background":true},
+      {"src":"IMG_2236.jpg","alt":null,"background":true},
+      {"src":"donuts-with-grownups.jpg","alt":null,"background":true},
+      {"src":"OBC-snow-pic.jpg","alt":null,"background":true}
+    ],
+    "h1Count": 0,
+    "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+    "analyticsScript": true,
+    "analytics": { "ga4Ids": ["GT-(present)"], "gtmIds": [], "uaIds": [] },
+    "pixel": false,
+    "telLinks": [{"href":"tel:+14234989311","text":"423-498-9311","inHeader":false,"inFooter":true}],
+    "phonesInText": ["423-498-9311"],
+    "ctas": [
+      {"text":"Admissions","href":"https://ocaeagles.org/#","inHeader":true,"aboveFold":true,"isButton":false},
+      {"text":"Contact Us","href":"https://ocaeagles.org/contact-us/","inHeader":true,"aboveFold":true,"isButton":false},
+      {"text":"Support Us","href":"https://ocaeagles.org/support-us/","inHeader":true,"aboveFold":true,"isButton":true,"bg":"dark navy, white text"},
+      {"text":"Visit Us","href":"https://link.zenrollment.com/widget/group/mzmKTsjCuEj37lCwnSsj","inHeader":true,"aboveFold":true,"isButton":true,"bg":"gold, white text"},
+      {"text":"Application Process","href":"https://ocaeagles.org/admissions/","inHeader":false,"aboveFold":false,"isButton":false},
+      {"text":"Schedule a Tour","href":"https://link.zenrollment.com/widget/group/mzmKTsjCuEj37lCwnSsj","inHeader":false,"aboveFold":false,"isButton":false},
+      {"text":"Inquire Today","href":"https://ocaeagles.org/admissions/","inHeader":false,"aboveFold":false,"isButton":true},
+      {"text":"Schedule a Tour","href":"https://link.zenrollment.com/widget/group/mzmKTsjCuEj37lCwnSsj","inHeader":false,"aboveFold":false,"isButton":true},
+      {"text":"Contact Us","href":"https://ocaeagles.org/contact-us/","inHeader":false,"aboveFold":false,"isButton":true}
+    ],
+    "navItems": [
+      {"text":"About","href":"https://ocaeagles.org/about/","children":["About OCA","Faculty & Staff"]},
+      {"text":"Academics","href":"https://ocaeagles.org/academics/","children":["Preschool","Elementary","Junior/Senior High"]},
+      {"text":"Admissions","href":"https://ocaeagles.org/admissions/","children":["Admission Process","Financial Information","Student Scholarship Organization","After School Care"]},
+      {"text":"Student Life","href":"https://ocaeagles.org/student-life/","children":["Athletics","Fine Arts"]},
+      {"text":"Eagle Essentials","href":"https://ocaeagles.org/parents/","children":["Parents","Calendars","Athletic Calendar","Lunch Menu","School Calendar 26-27","Events","FACTS Login"]},
+      {"text":"Contact Us","href":"https://ocaeagles.org/contact-us/","children":[]},
+      {"text":"Support Us","href":"https://ocaeagles.org/support-us/","children":[]},
+      {"text":"Visit Us","href":"https://link.zenrollment.com/widget/group/mzmKTsjCuEj37lCwnSsj","children":[]}
+    ],
+    "keyLinks": [],
+    "socialLinks": ["https://www.facebook.com/oakwoodca/"],
+    "wordCount": 672,
+    "text": "OAKWOOD CHRISTIAN ACADEMY Uniting a Passion for Christ with Excellence in Academics! & Admissions Application Process & Visit Schedule a Tour & Calendar Event Highlights Oakwood Christian Academy OCA subscribes to the philosophy that Christian parents should fully commit to faith and knowledge in relationship with Christ (Psalm 78:1-7). Christian education should involve development of academic understanding, social skills, and relationship with God. Thus, education is a learning process whereby a child develops and grows academically, socially, and spiritually. Statement Of Beliefs We affirm the Holy Bible as the inspired, infallible word of God and the basis for our beliefs. Oakwood Baptist Church subscribes to the doctrinal statement of The Baptist Faith and Message as adopted by the Southern Baptist Convention. READ MORE Academics At OCA, we are committed to excellence in education rooted in a Biblical worldview. Our rigorous curriculum, dedicated teachers, and intentional instructional practices equip students to think critically, grow spiritually, and achieve their full academic potential. Preschool Ages 3 to 4 years old LEARN MORE Elementary Kindergarten to 6th Grade LEARN MORE Jr/Sr High 7th Grade to 12th Grade LEARN MORE Admissions We are here to serve and assist you through the admissions process. OCA's educational process and commitment, both in and out of the classroom, is directed to the development of Christian students to enable them to translate the different facets of their educational experience into Christian living. INQUIRE TODAY Athletics Our athletic program is built on excellence, character, and Christ-centered competition. We believe sports are a powerful opportunity to develop discipline, teamwork, resilience, and leadership, qualities that shape students both on and off the field. With dedicated coaches, competitive teams, and a strong commitment to sportsmanship, our athletes strive to honor God in every practice, game, and season. LEARN MORE Fine Arts The Fine Arts Program provides students with meaningful opportunities to grow through music and drama while developing their God-given talents. We believe the fine arts are a vital foundation for ministry and are committed to nurturing both artistic excellence and spiritual growth in every student. LEARN MORE Oakwood Parent Organization (OPO) The Oakwood Parent Organization (OPO) exists to provide meaningful opportunities for parents to actively engage in and support their child's educational experience. Through collaboration, service, and prayer, we seek to foster a strong partnership between home and school that enriches our entire Academy community. LEARN MORE Oakwood Baptist Church Our academy was founded on the mission and values of Oakwood Baptist Church, and is blessed to partner with them receiving its spiritual guidance and support. Together, we are committed to nurturing students academically, spiritually, and relationally, pointing them toward Christ in all that we do. As a ministry of OBC, together we provide a strong foundation of faith, community, and biblical truth that shapes our school culture. We invite you to learn more about the church family that partners with us in this mission. VISIT OAKWOOD BAPTIST CHURCH Visit Oakwood Christian Academy Experience what God is doing at OCA through a personal tour. You'll have the opportunity to meet our administration, faculty, staff, and students. We look forward to sharing what OCA offers your family, answering your questions, and helping you feel right at home. SCHEDULE A TOUR CONTACT US CONTACT 113 Oakwood Street, Chickamauga, GA, USA 423-498-9311 info@ocaeagles.org LINKS About Academics Admissions Athletics Employment School Calendar Support Us Contact Us FTN Corporate Sponsors SOCIALS AND PORTAL FACTS LOGIN",
+    "addressInFooter": "113 Oakwood Street, Chickamauga, GA, USA",
+    "mapEmbed": false,
+    "landmarks": { "header": true, "nav": 2, "main": false, "footer": true, "skipLink": true, "lang": "en-US" },
+    "videos": 0,
+    "emailOptIn": false,
+    "downloadLinks": []
+  },
+  "pages": [
+    {"label":"admissions","url":"https://ocaeagles.org/admissions/","status":200,"title":"Admissions | Oakwood Christian Academy","headings":["H2: Admissions","H2: Application Process","H2: Admissions Policy"],
+     "text":"Admissions Thank you for your interest in OCA. We understand both the importance and significance of this vital decision regarding where your student will attend school. We are here to serve and assist you through the admissions process. As a community Christian school, OCA believes in \"Kingdom Education\", a lifelong, Bible-based, Christ-centered process of leading a student to Christ, building a student up in Christ, and equipping a student to serve Christ. Contact the admissions office by email, call or text (423) 498-9292. Application Process Step 1 Private Tour Any day is a great day to experience what God is doing at OCA. A private tour gives your family a firsthand look at our campus, classrooms, and Christ-centered community. Visit Us Step 2 Application Following your campus tour, you'll receive an email with a link to complete the Admissions Application. Once your application and non-refundable $100 fee are submitted, your student's admissions file will be opened and reviewed. Application fees are processed through FACTS Tuition Management. Step 3 Admissions Assessment Once the application and required documents have been received, your family will be contacted to schedule the student's Admissions Assessment. Step 4 Notification Following the admissions review process, families will be notified of their student's admission status."},
+    {"label":"tuition","url":"https://ocaeagles.org/admissions/financial-information/","status":200,"title":"Financial Information | Oakwood Christian Academy","headings":["H2: Financial Information"],
+     "text":"Financial Information Tuition and Fee Structure 2026-2027 School Year $3410 Preschool 3 year old only 3 days a week; $5225 Preschool 3 and 4 year old 5 days a week; $6775 Kindergarten to 2nd grade; $6875 3rd to 6th grade; $7859 7th to 8th grade; $8775 9th to 12th grade. Tuition includes FACTS fees, curriculum, technology, preschool and elementary student agenda, yearbook, field trips. Payment Information. Student Scholarship Organization (GOAL)."},
+    {"label":"about","url":"https://ocaeagles.org/about/","status":200,"title":"About | Oakwood Christian Academy","headings":["H2: About OCA","H2: Mission Statement","H2: Accreditation"],
+     "text":"About OCA. Mission Statement. Statement of Faith, Romans 10:9-10. Accreditation: Oakwood Christian Academy is fully accredited through North American Christian School Accrediting Agency (NACSAA), National Council of Private School Accreditation (NCPSA), the American Association of Christian Schools (AACS) and GAPSAC. [Accreditation logos shown as images: NACSAA, AACS, GAPSAC, NCPSA.]"},
+    {"label":"academics","url":"https://ocaeagles.org/academics/","status":200,"title":"Academics | Oakwood Christian Academy","headings":[],"text":"Academics. Preschool, Elementary, Junior/Senior High."},
+    {"label":"contact","url":"https://ocaeagles.org/contact-us/","status":200,"title":"Contact Us | Oakwood Christian Academy","headings":[],"text":"Contact Us. Contact form: Name, Email, Message."},
+    {"label":"blog","url":"https://ocaeagles.org/events/","status":200,"title":"Upcoming Events – Oakwood Christian Academy","headings":[],"text":"Upcoming Events calendar."}
+  ],
+  "notFound": { "status": 404, "custom": false, "text": "No Results Found. The page you requested could not be found. Try refining your search, or use the navigation above to locate the post." },
+  "robots": { "status": 200, "blocksGoogle": false, "aiBlocks": [] },
+  "sitemap": { "status": 200, "urlCount": 48, "url": "https://ocaeagles.org/wp-sitemap.xml" },
+  "wwwRedirect": { "from": "http://www.ocaeagles.org/", "to": "https://ocaeagles.org/", "ok": true },
+  "https": true,
+  "headers": { "server": "nginx", "contentEncoding": "br" },
+  "forms": [
+    { "page": "contact", "url": "https://ocaeagles.org/contact-us/", "provider": "native", "fields": 3, "required": 0, "labels": ["Name","Email","Message"], "notes": [] },
+    { "page": "visit", "url": "https://link.zenrollment.com/widget/group/mzmKTsjCuEj37lCwnSsj", "provider": "Zenrollment tour scheduler", "fields": null, "required": null, "labels": [], "notes": ["Online self-booking, 30-minute tours by grade group: Preschool, Lower School (K to 1st), Grade School (2nd to 6th), Upper School (7th to 12th)"] }
+  ],
+  "blog": { "url": "https://ocaeagles.org/events/", "latestPostDate": null, "recentTitles": [] },
+  "serp": {
+    "keyword": "christian school chickamauga",
+    "location": "Chickamauga, Georgia",
+    "organic": [
+      {"rank":1,"title":"Oakwood Christian Academy | Passion for Christ Excellence ...","url":"https://ocaeagles.org","host":"ocaeagles.org"},
+      {"rank":2,"title":"Oakwood Christian Academy | Chickamauga GA","url":"facebook","host":"facebook.com"},
+      {"rank":3,"title":"Oakwood Christian Academy in GA","url":"https://www.niche.com","host":"niche.com"},
+      {"rank":4,"title":"Oakwood Christian Academy in Chickamauga, Georgia","url":"https://www.usnews.com","host":"usnews.com"},
+      {"rank":5,"title":"Oakwood Christian (Chickamauga, GA) High School Sports","url":"https://www.maxpreps.com","host":"maxpreps.com"},
+      {"rank":6,"title":"Oakwood Christian Academy","url":"https://www.aacs.org","host":"aacs.org"},
+      {"rank":7,"title":"Oakwood Christian Academy","url":"https://www.mapquest.com","host":"mapquest.com"},
+      {"rank":8,"title":"Oakwood Christian Academy","url":"https://www.aacs.org","host":"aacs.org"},
+      {"rank":9,"title":"Oakwood Christian Academy (Chickamauga, Ga.)","url":"https://www.legistorm.com","host":"legistorm.com"}
+    ],
+    "schoolRank": 1,
+    "degraded": true,
+    "verified": true
+  },
+  "mapPack": {
+    "top": [{"rank":1,"title":"Oakwood Christian Academy","address":"113 Oakwood St, Chickamauga, GA 30707","domain":"ocaeagles.org"}],
+    "schoolRank": 1,
+    "profile": { "photos": 7, "hours": true, "category": "Religious school", "description": false }
+  },
+  "pagespeed": {
+    "mobile": { "score": 60, "fcp": 2.9, "lcp": 30.7, "si": 8.1, "tbt": 170, "cls": 0.005,
+      "opportunities": [{"title":"Improve image delivery","savings":"2,392 KiB"},{"title":"Render-blocking requests","savings":"1,480 ms"},{"title":"Font display","savings":"590 ms"}] },
+    "desktop": { "score": 82, "fcp": 0.6, "lcp": 2.8, "si": 1.5, "tbt": 10, "cls": 0.067, "opportunities": [] },
+    "imageSavingsKiB": 2392,
+    "cacheSavingsKiB": 0,
+    "unsizedImages": false,
+    "totalKiB": 9388,
+    "textCompression": true
+  },
+  "lighthouseA11y": 82,
+  "axe": {
+    "violations": [
+      {"id":"color-contrast","help":"Insufficient color contrast","impact":"serious","tags":["wcag2aa"],"nodes":28},
+      {"id":"meta-viewport","help":"Page blocks zooming on phones","impact":"critical","tags":["wcag2aa"],"nodes":1},
+      {"id":"tabindex","help":"Element with a positive tabindex","impact":"serious","tags":["best-practice"],"nodes":1},
+      {"id":"page-has-heading-one","help":"Page has no main heading (H1)","impact":"moderate","tags":["best-practice"],"nodes":1},
+      {"id":"landmark-one-main","help":"Page has no main landmark","impact":"moderate","tags":["best-practice"],"nodes":1},
+      {"id":"region","help":"Content outside landmark regions","impact":"moderate","tags":["best-practice"],"nodes":12},
+      {"id":"heading-order","help":"Heading levels skip","impact":"moderate","tags":["best-practice"],"nodes":2},
+      {"id":"skip-link","help":"Skip link target is missing","impact":"moderate","tags":["best-practice"],"nodes":1}
+    ],
+    "passes": 36,
+    "incompleteContrast": 17
+  },
+  "screenshots": { "cover": "fixtures/ocaeagles-home.jpg" }
+}
