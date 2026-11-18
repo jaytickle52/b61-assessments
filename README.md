@@ -56,6 +56,6 @@ npx tsx scripts/run-fixture.ts fixtures/ocaeagles.collected.json --live-ai   # r
 
 ## Setup
 
-1. `npx convex dev` (creates the deployment and `convex/_generated`), then `npx convex env set APP_URL ...` and `WORKER_SECRET ...`.
+1. Every Vercel build runs `npx convex deploy` first (see `vercel.json`), which pushes the Convex functions and sets `NEXT_PUBLIC_CONVEX_URL` for the build. It needs `CONVEX_DEPLOY_KEY` (a production deploy key from the Convex dashboard) in Vercel. Set `APP_URL` and `WORKER_SECRET` in the Convex production deployment's environment variables.
 2. Copy `.env.example` into Vercel's environment variables. Keep `EMAIL_MODE=off` or `test` until the email copy is approved.
 3. Vercel Pro is needed for the 300-second function the worker uses.
