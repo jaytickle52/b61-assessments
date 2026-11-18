@@ -7,10 +7,15 @@ import type { CollectedData, CollectInput, FormCheck, HomeExtract } from "./type
 // Headless Chromium on a Vercel function. Does what the manual skill did in Chrome:
 // homepage extraction, inner-page checks, form inspection, axe-core, and the cover screenshot.
 
-const SRC = join(process.cwd(), "src/tools/website/collect");
-const EXTRACT = readFileSync(join(SRC, "extract.browser.js"), "utf8");
-const CHECKS = readFileSync(join(SRC, "checks.browser.js"), "utf8");
-const AXE = readFileSync(join(process.cwd(), "node_modules/axe-core/axe.min.js"), "utf8");
+// Read lazily: module-level reads crash any route that merely imports this file.
+const SRC = () => join(process.cwd(), "src/tools/website/collect");
+let scripts: { extract: string; checks: string; axe: string } | null = null;
+const loadScripts = () =>
+  (scripts ??= {
+    extract: readFileSync(join(SRC(), "extract.browser.js"), "utf8"),
+    checks: readFileSync(join(SRC(), "checks.browser.js"), "utf8"),
+    axe: readFileSync(join(process.cwd(), "node_modules/axe-core/axe.min.js"), "utf8"),
+  });
 
 const SCHEDULERS = /zenrollment|leadconnector|msgsndr|calendly|acuityscheduling|youcanbook|ravenna|finalsite.*inquiry|schoolmint|blackbaud|myschoolapp|factsmgt/i;
 
@@ -51,6 +56,7 @@ async function redirectTarget(url: string) {
 }
 
 export async function collectFromBrowser(input: CollectInput): Promise<Omit<CollectedData, "serp" | "mapPack" | "pagespeed" | "lighthouseA11y" | "collectedAt"> & { coverPng: Buffer }> {
+  const { extract: EXTRACT, checks: CHECKS, axe: AXE } = loadScripts();
   const browser = await puppeteer.launch({
     args: chromium.args,
     executablePath: await chromium.executablePath(),

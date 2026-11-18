@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 import { ConvexHttpClient } from "convex/browser";
 import { anyApi } from "convex/server";
-import { toInput } from "@/tools/website/collect";
+import { toInput } from "@/tools/website/collect/input";
 
 // Intake endpoint for both tools. Adds the requester's IP for rate limiting and normalizes the
 // school's website domain, which is what search results are matched against (not the email domain).

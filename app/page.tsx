@@ -17,8 +17,12 @@ export default function Page() {
     setErr("");
     const body = Object.fromEntries(new FormData(e.currentTarget).entries());
     const res = await fetch("/api/request", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ ...body, tool: "website-report-card" }) });
-    const json = await res.json();
-    if (!res.ok) { setErr(json.error ?? "Something went wrong."); setBusy(false); return; }
+    const json = await res.json().catch(() => ({}));
+    if (!res.ok || !json.token) {
+      setErr(json.error ?? "Something went wrong on our end. Please try again, or email jay@banner61.com.");
+      setBusy(false);
+      return;
+    }
     window.location.href = `/status/${json.token}`;
   }
 
